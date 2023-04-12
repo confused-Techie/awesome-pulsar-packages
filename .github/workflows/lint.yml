@@ -1,0 +1,16 @@
+name: CI
+on:
+  - push
+  - pull_request
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the Latest Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Install Deps
+        run: npm install
+      - name: Run Awesome Lint
+        run: npm test
