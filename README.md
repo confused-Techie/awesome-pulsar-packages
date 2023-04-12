@@ -18,6 +18,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [language-batchfile](https://web.pulsar-edit.dev/packages/language-batchfile) - Syntax highlighting for Batch files.
 - [ssh-config](https://web.pulsar-edit.dev/packages/ssh-config) - Syntax highlighting SSH Config & Known Host files.
 - [language-robots-txt](https://web.pulsar-edit.dev/packages/language-robots-txt) - Syntax highlighting for `robots.txt` files.
+- [language-log](https://web.pulsar-edit.dev/packages/language-log) - Log syntax highlighting and filtering.
 
 ## Pulsar Tree-Sitter Grammar Developers
 
