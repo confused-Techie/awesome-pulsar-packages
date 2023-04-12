@@ -1,4 +1,4 @@
-<!--lint disable awesome-badge awesome-git-repo-age awesome-contributing-->
+<!--lint disable awesome-badge awesome-git-repo-age-->
 # Awesome Pulsar Packages
 
 > A curated collection of awesome [Pulsar](https://github.com/pulsar-edit/pulsar) packages.
