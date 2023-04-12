@@ -1,0 +1,20 @@
+{
+  "name": "awesome-pulsar-packages",
+  "version": "1.0.0",
+  "description": "A curated collection of awesome Pulsar packages.",
+  "scripts": {
+    "test": "awesome-lint README.md"
+  },
+  "keywords": [
+    "awesome-list",
+    "awesome",
+    "pulsar",
+    "pulsar-package"
+  ],
+  "author": "confused-Techie",
+  "repository": "https://github.com/confused-Techie/awesome-pulsar-packages",
+  "license": "CC0",
+  "devDependencies": {
+    "awesome-lint": "^0.18.2"
+  }
+}
